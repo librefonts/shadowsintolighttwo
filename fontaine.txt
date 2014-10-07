@@ -1,0 +1,41 @@
+Fonts
+  Font:
+    Common name: Shadows Into Light Two
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2012, Kimberly Geswein.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.003 2012
+    Vendor: Kimberly Geswein
+    Designer: Kimberly Geswein
+    Designer url: http://kimberlygeswein.com
+    Glyph count: 356
+    Character count: 362
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 16
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
